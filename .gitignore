@@ -2,4 +2,4 @@
 data/cleaned_jobs_data.csv
 __pycache__/
 *.pyc
-output/~.xlsx
+output/~$job_market_report.xlsx
